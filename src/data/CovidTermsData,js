@@ -1,0 +1,46 @@
+// CovidTermsData.js
+const covidTermsData = [
+  {
+    src: "src/images/4.Covid Terms/1.cough.png",
+    alt: "Cough",
+    text: "Cough",
+  },
+  {
+    src: "src/images/4.Covid Terms/2.chest pain.png",
+    alt: "Chest Pain",
+    text: "Chest Pain",
+  },
+  {
+    src: "src/images/4.Covid Terms/3.inhale.png",
+    alt: "Inhale",
+    text: "Inhale",
+  },
+  {
+    src: "src/images/4.Covid Terms/4.breathe.png",
+    alt: "Breathe",
+    text: "Breathe",
+  },
+  {
+    src: "src/images/4.Covid Terms/disinfect.png",
+    alt: "Disinfect",
+    text: "Disinfect",
+  },
+  {
+    src: "src/images/4.Covid Terms/hand sanitizer.png",
+    alt: "Hand Sanitizer",
+    text: "Hand Sanitizer",
+  },
+  {
+    src: "src/images/4.Covid Terms/safety distance.png",
+    alt: "Safety Distance",
+    text: "Safety Distance",
+  },
+  {
+    src: "src/images/4.Covid Terms/take the temperature.png",
+    alt: "Take the Temperature",
+    text: "Take the Temperature",
+  },
+  // Add more COVID Terms images as needed
+];
+
+export default covidTermsData;
