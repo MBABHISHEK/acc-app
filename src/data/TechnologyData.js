@@ -2,7 +2,7 @@
 
 const TechnologyImageData = [
   {
-    src: "public/images/1.Technology/1.Mobile device.png",
+    src: "/images/1.Technology/1.Mobile device.png",
     alt: "Mobile Device",
     text: "Mobile Device",
   },
